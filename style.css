@@ -1,0 +1,48 @@
+h2 {
+    color: #ffffff;
+    text-align: center;
+    background-color: #8993c0;
+    border: 1px solid #3140c5;
+    border-radius: 6px;
+    padding: 10px 20px;
+}
+
+p {
+    color: #ffffff;
+    float: left;
+    font-size: 20px;
+    background-color: #8993c0;
+    border: 1px solid #3140c5;
+    border-radius: 6px;
+    padding: 10px 20px;
+}
+
+pre {
+    text-align: left;
+    color: #ffffff;
+    font-size: 20px;
+    background-color: #8993c0;
+    border: 1px solid #3140c5;
+    border-radius: 6px;
+    padding: 10px 20px;
+}
+
+a {
+    float: right;
+    color: #ffffff;
+    font-size: 15px;
+    background-color: #8993c0;
+    border: 1px solid #3140c5;
+    border-radius: 6px;
+    padding: 10px 20px;
+}
+
+a:hover {
+    background-color: #f0eeee;
+    color: #986ac4;
+    ;
+}
+
+body {
+    background-image: url("https://i.pinimg.com/originals/a4/6c/4d/a46c4dea15a013d3f779e8cf97a09a46.jpg");
+}
